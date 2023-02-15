@@ -1,6 +1,6 @@
 # gifify.zsh
 
-## A simple script for convert a video to animated GIF using FFmpeg
+## A simple script for convert video to animated GIF using FFmpeg
 
 
 ## Usage
